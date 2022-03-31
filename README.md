@@ -1,5 +1,7 @@
 # Technotec-website
 
-This is the link for Technotec website. It is created using HTML, CSS, JS and Bootstrap.
+This repo contains the code for Technotec company website. It is created using HTML, CSS, JS and Bootstrap.
+
+#### Website review
 
 https://khalid-hassan-97.github.io/Technotec-website/
